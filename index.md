@@ -11,7 +11,7 @@ Extraer,categorizar, ordenar, direccionar, posicionar palabras.
 
 ```markdown
 
-             <-parar<-acelerar<-correr-<-desplasar<-caminar<-parar->saltar->caer->detener->parar
+             estar->parar->caminar->-correr->saltar->caer->detener->parar
 
 
 ```
