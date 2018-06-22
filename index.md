@@ -25,8 +25,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Transductor de Ideas
 
-El proposito es convertir los textos a conceptos que posteriormente se analizaran en este componente  [minero](https://github.com/orionworkflow/minero_de_diccionario). De `_config.yml` el.
+El proposito es convertir los textos a conceptos que posteriormente se analizaran en este componente  [minero](https://github.com/orionworkflow/minero_de_diccionario).  `algoritmo estadistico de distribucion` .
 
 ### Maquina de Aprendizaje Profundo de Ideas
 
-Para mas informacion de "Deep Learging Machine" [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+El proposito 
+
+### Soporte
+
+
+Para mas informacion sobre nosotors [aqui](https://www.github.com/orionworkflow)
