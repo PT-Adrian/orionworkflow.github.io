@@ -21,7 +21,7 @@ Extraer,categorizar, ordenar, direccionar, posicionar palabras.
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+El dicionario que ocupamos es [diccionario de el colegio de mexico](https://www.colmex.mx/).
 
 ### Transductor de Ideas
 
