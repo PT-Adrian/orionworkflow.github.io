@@ -1,8 +1,35 @@
 ## Proyecto de Inteligencia Artificial
 
-You can use the [editor on GitHub](https://github.com/orionworkflow/orionworkflow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+El proposito de este proyecto es la generacion de un modelo de inteligencia artificial linguistica en español, que sirvira para la implementacion de diferentes areas de la industria e informatica. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Con el objetivo de llegar a la meta, se encuentra dividido en cuatro sub proyectos
+
+Minero de diccionario
+
+Minero de texto
+
+Transductor de Ideas y Relaciones
+
+Maquina de aprendizaje profundo de Ideas y Relaciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
