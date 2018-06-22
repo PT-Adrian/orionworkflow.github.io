@@ -2,29 +2,18 @@
 
 El proposito de este proyecto es la generacion de un modelo de inteligencia artificial linguistica en español, que sirvira para la implementacion de diferentes areas de la industria e informatica. 
 
-Con el objetivo de llegar a la meta, se encuentra dividido en
+Para la implementacion se requieren diferentes componentes que coordinados produciran esta.
 
 
 ### Minero de diccionario
 
-Con el proposito obterner grafos de palabras
+Extraer,categorizar, ordenar, direccionar, posicionar palabras. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+             <-parar<-acelerar<-correr-<-desplasar<-caminar<-parar->saltar->caer->detener->parar
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -35,4 +24,4 @@ El proposito es convertir los textos a conceptos que posteriormente se analizara
 
 ### Maquina de Aprendizaje Profundo de Ideas
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para mas informacion de "Deep Learging Machine" [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
