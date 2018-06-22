@@ -10,10 +10,14 @@ Para la implementacion se requieren diferentes componentes que coordinados produ
 Extraer,categorizar, ordenar, direccionar, posicionar palabras. 
 
 ```markdown
-
-             estar->parar->caminar->correr->saltar->caer->detener->parar
-                      |
-                    girar->seguir->andar->continuar->voltear->  
+{
+"correr":{
+          "parar":"0",
+          "continuar":"1",
+          "saltar":"3"
+          "regresar":"-1"
+         }
+}
 
 ```
 
@@ -21,7 +25,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Transductor de Ideas
 
-El proposito es convertir los textos a conceptos que posteriormente se analizaran y  [repository settings](https://github.com/orionworkflow/orionworkflow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+El proposito es convertir los textos a conceptos que posteriormente se analizaran en este componente  [minero](https://github.com/orionworkflow/minero_de_diccionario). De `_config.yml` el.
 
 ### Maquina de Aprendizaje Profundo de Ideas
 
