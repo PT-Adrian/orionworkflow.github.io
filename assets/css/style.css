@@ -218,10 +218,11 @@ span{
 .front{
   
     float:left;
-    width:42%;
-    height:42%;
-    margin:6%;
+    width:90%;
+    height:90%;
+    margin:5%;
     border:1px solid black;
+    border-radius:2%;
 
 }
 
