@@ -209,12 +209,15 @@ span{
 
 .card{
      float:left;
-     margin:2%;
-     width:46%;
-     height:46%;
-     border:solid 1px black;
-  
+     width:50%;
+     height:50%;
+}
 
+
+.note{
+    float:left;
+    width:40%;
+    margin:5%;
 
 }
 
