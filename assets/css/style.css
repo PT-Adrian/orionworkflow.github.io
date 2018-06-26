@@ -64,9 +64,8 @@ header{
     float:left;
     outline: none;
     box-shadow: none;
-    padding:0;
-    border:0;
-
+    padding:0px;
+    margin:0px;
 
 }
 
@@ -80,8 +79,8 @@ h1{
     float:left;
     outline: none;
     box-shadow: none;
-    padding:0;
-    border:0;
+    padding:0px;
+    border:0px;
 
 }
 
