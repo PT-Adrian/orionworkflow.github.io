@@ -43,7 +43,19 @@ input:focus{
     border:0;
 }
 
+header{
 
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    box-shadow: none;
+    padding:0;
+    border:0;
+
+
+}
 
 select{
     min-width:100%;
