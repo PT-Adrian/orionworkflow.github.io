@@ -67,6 +67,21 @@ header{
 
 }
 
+
+h2{
+
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    float:left;
+    outline: none;
+    box-shadow: none;
+    padding:0;
+    border:0;
+
+}
+
 select{
     min-width:100%;
     max-width:100%;
