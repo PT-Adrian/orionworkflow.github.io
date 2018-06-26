@@ -1,8 +1,8 @@
 .sky {
-     width:60%;
-     margin-left:20%;
+     width:95%;
+     margin-left:2.5%;
      background-image: url("/images/sky.jpg");
-     height:400px;
+     height:800px;
      color:white;
      text-align:center;
     }
