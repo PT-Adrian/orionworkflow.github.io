@@ -23,6 +23,7 @@ html {
 
 body{
     margin:0px;
+    padding:0px;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -57,6 +58,7 @@ header{
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    float:left;
     outline: none;
     box-shadow: none;
     padding:0;
