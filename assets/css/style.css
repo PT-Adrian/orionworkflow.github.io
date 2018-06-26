@@ -1,12 +1,13 @@
 
 body {
-background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+
 }
 
 .sky {
      width:100%;
      margin-top:2.5%;
      height:800px;
+     background-color: #244E7F;
      color:#E0E147;
      text-align:center;
     }
