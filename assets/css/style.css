@@ -1,7 +1,6 @@
 
 body {
-background: rgb(57,57,199);
-background: radial-gradient(circle, rgba(57,57,199,1) 5%, rgba(148,187,233,1) 91%);
+background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 
 .sky {
