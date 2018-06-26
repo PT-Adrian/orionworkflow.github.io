@@ -1,8 +1,13 @@
+
+body {
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 17%, rgba(0,212,255,1) 100%);
+}
+
 .sky {
-     width:95%;
-     margin-left:2.5%;
-     background-image: url("/images/sky.jpg");
+     width:100%;
+     margin-top:2.5%;
      height:800px;
-     color:#B9991D;
+     color:#E0E147;
      text-align:center;
     }
