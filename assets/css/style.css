@@ -205,3 +205,16 @@ span{
      color:white;
      text-align:center;
     }
+
+
+.card{
+     float:left;
+     margin:2%;
+     width:40%;
+     border:solid 1px black;
+     
+  
+
+
+}
+
