@@ -188,7 +188,8 @@ span{
 .content {
      width:100%;
      height:800px;
-     background-color: white;
+     float:left;
+     background-color:#B1CFF2;
      color:#E0E147;
      text-align:center;
     }
@@ -197,6 +198,7 @@ span{
 .footer {
      width:100%;
      height:800px;
+     float:left;
      background-color: #779ECC;
      color:#E0E147;
      text-align:center;
