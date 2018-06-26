@@ -76,6 +76,7 @@ h1{
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    font-family: 'Dosis', sans-serif;
     float:left;
     outline: none;
     box-shadow: none;
