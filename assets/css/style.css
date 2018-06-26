@@ -215,10 +215,12 @@ span{
 }
 
 
-.note{
+.front{
+  
     float:left;
     width:40%;
-    margin:5%;
+    margin:4.8%;
+    border:1px solid black;
 
 }
 
