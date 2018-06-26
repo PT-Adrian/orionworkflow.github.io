@@ -21,6 +21,14 @@ html {
     outline: none;
 }
 
+body{
+    margin:0px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
 input{
     width:100%;
     -webkit-appearance: none;
