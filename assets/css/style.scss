@@ -7,6 +7,12 @@ header {
   display: none;
 }
 
-footer {
-   display:none;
+.site-footer-owner {
+  display: none;
+  font-weight: bold;
+}
+
+.site-footer-credits {
+  display:none;
+  color: $blockquote-text-color;
 }
