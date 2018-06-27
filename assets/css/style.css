@@ -210,7 +210,7 @@ span{
 .card-top-right{
      float:left;
      width:49.8%;
-     height:400px;
+     height:800px;
      color:black;
      border-right:1px solid silver;
      border-bottom:1px solid silver;
@@ -221,7 +221,7 @@ span{
 .card-top-left {
      float:left;
      width:49.8%;
-     height:400px;
+     height:800px;
      color:black;
      border-bottom:1px solid silver;
      
@@ -251,7 +251,7 @@ span{
   
     float:left;
     width:98%;
- 
+    height:800px;
 
 }
 
