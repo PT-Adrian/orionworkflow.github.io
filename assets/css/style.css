@@ -213,6 +213,8 @@ span{
      height:400px;
      color:black;
      border-left:1px solid silver;
+     border-bottom:1px solid silver;
+}
 }
 
 
@@ -221,7 +223,7 @@ span{
      width:50%;
      height:400px;
      color:black;
-     border-botton:1px solid silver;
+     
 }
 
 
@@ -230,7 +232,7 @@ span{
      width:50%;
      height:400px;
      color:black;
-     border-top:1px solid silver;
+    
 }
 
 
@@ -239,7 +241,7 @@ span{
      width:50%;
      height:400px;
      color:black;
-       border-left:1px solid silver;
+     
 }
 
 
