@@ -206,12 +206,42 @@ span{
     }
 
 
-.card{
+
+.card-top-right{
      float:left;
      width:50%;
-     height:50%;
+     height:400px;
      color:black;
+     border-left:1px solid silver;
 }
+
+
+.card-top-left {
+     float:left;
+     width:50%;
+     height:400px;
+     color:black;
+     border-botton:1px solid silver;
+}
+
+
+.card-bottom-left {
+     float:left;
+     width:50%;
+     height:400px;
+     color:black;
+     border-top:1px solid silver;
+}
+
+
+.card-bottom-right{
+     float:left;
+     width:50%;
+     height:400px;
+     color:black;
+       border-left:1px solid silver;
+}
+
 
 
 .front{
@@ -219,8 +249,7 @@ span{
     float:left;
     width:98%;
     height:400px;
-    margin:1%;
-    border:1px solid silver;
+ 
 
 }
 
