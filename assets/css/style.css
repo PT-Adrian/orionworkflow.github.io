@@ -198,7 +198,7 @@ span{
 
 .footer {
      width:100%;
-     height:70px;
+     height:150px;
      float:left;
      background-color: black;
      color:white;
@@ -231,7 +231,7 @@ span{
 .card-bottom-left {
      float:left;
      width:49.8%;
-     height:400px;
+     height:800px;
      color:black;
     
     
@@ -240,7 +240,7 @@ span{
 .card-bottom-right{
      float:left;
      width:49.8%;
-     height:400px;
+     height:800px;
      color:black;
       border-right:1px solid silver;
 }
@@ -251,7 +251,6 @@ span{
   
     float:left;
     width:98%;
-    height:500px;
  
 
 }
