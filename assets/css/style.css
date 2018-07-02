@@ -231,7 +231,7 @@ span{
 .card-bottom-left {
      float:left;
      width:49.8%;
-     height:800px;
+     height:600px;
      color:black;
     
     
@@ -240,7 +240,7 @@ span{
 .card-bottom-right{
      float:left;
      width:49.8%;
-     height:800px;
+     height:600px;
      color:black;
       border-right:1px solid silver;
 }
