@@ -199,9 +199,11 @@ span{
      width:100%;
      height:300px;
      float:left;
-     background-color:white;
      color:#E0E147;
      text-align:center;
+     background: rgb(102,184,255);
+     background: linear-gradient(180deg, rgba(102,184,255,1) 23%, rgba(0,212,255,1) 100%);
+ 
   }
 
 
