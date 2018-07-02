@@ -55,19 +55,6 @@ input:focus{
     border:0;
 }
 
-header{
-
-    width:100% !important;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    float:left;
-    outline: none;
-    box-shadow: none;
-    padding:0px;
-    margin:0px;
-
-}
 
 
 h1{
@@ -185,8 +172,8 @@ span{
 
 .header {
      position: absolute;
-     top: 0;
-     left: 0;
+     top: 0px;
+     left: 0px;
      height:90px;
      width:100%;
      background-color:#4CACFF;
