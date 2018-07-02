@@ -182,6 +182,16 @@ span{
  }
 
 
+.main {
+     width:100%;
+     height:600px;
+     float:left;
+     color:#E0E147;
+     text-align:center;
+     background-color:#4CACFF;
+ 
+  }
+
 .content {
      width:100%;
      height:400px;
